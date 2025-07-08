@@ -1,0 +1,263 @@
+Medium,Condition,Genus,Abundance
+BHI,AE,Escherichia,66.61%
+BHI,AE,Proteus,32.92%
+BHI,AE,Shigella,0.15%
+BHI,AE,Laceyella,0.07%
+BHI,AE,Enterobacter,0.06%
+BHI,AE,Xenorhabdus,0.05%
+BHI,AE,Other genus<0.05%,0.15%
+MAC,AE,Escherichia,99.79%
+MAC,AE,Laceyella,0.09%
+MAC,AE,Shigella,0.06%
+MAC,AE,Other genus<0.05%,0.06%
+MSA,AE,Proteus,75.53%
+MSA,AE,Enterococcus,10.44%
+MSA,AE,Klebsiella,8.89%
+MSA,AE,Bacillus,4.13%
+MSA,AE,Escherichia,0.56%
+MSA,AE,Faecalibacterium,0.10%
+MSA,AE,Laceyella,0.06%
+MSA,AE,Other genus<0.05%,0.29%
+CBA,AE,Proteus,57.49%
+CBA,AE,Escherichia,42.01%
+CBA,AE,Shigella,0.13%
+CBA,AE,Laceyella,0.09%
+CBA,AE,Xenorhabdus,0.07%
+CBA,AE,Enterobacter,0.06%
+CBA,AE,Other genus<0.05%,0.17%
+CBAB,AE,Escherichia,57.40%
+CBAB,AE,Proteus,42.01%
+CBAB,AE,Shigella,0.17%
+CBAB,AE,Enterobacter,0.10%
+CBAB,AE,Xenorhabdus,0.06%
+CBAB,AE,Other genus<0.05%,0.26%
+TSY,AE,Escherichia,58.81%
+TSY,AE,Proteus,40.67%
+TSY,AE,Shigella,0.12%
+TSY,AE,Laceyella,0.09%
+TSY,AE,Klebsiella,0.07%
+TSY,AE,Enterobacter,0.05%
+TSY,AE,Other genus<0.05%,0.20%
+MRS,AE,Ligilactobacillus,61.72%
+MRS,AE,Limosilactobacillus ,33.07%
+MRS,AE,Lactobacillus,1.65%
+MRS,AE,Escherichia,1.57%
+MRS,AE,Pediococcus,1.02%
+MRS,AE,Proteus,0.62%
+MRS,AE,Laceyella,0.16%
+MRS,AE,Enterococcus,0.08%
+MRS,AE,Other genus<0.05%,0.12%
+FAA,AE,Escherichia,68.04%
+FAA,AE,Proteus,31.62%
+FAA,AE,Shigella,0.13%
+FAA,AE,Laceyella,0.06%
+FAA,AE,Other genus<0.05%,0.15%
+CNA,AE,Enterococcus,77.29%
+CNA,AE,Lactobacillus,20.55%
+CNA,AE,Limosilactobacillus ,0.13%
+CNA,AE,Ligilactobacillus,0.58%
+CNA,AE,Escherichia,0.45%
+CNA,AE,Proteus,0.31%
+CNA,AE,Bacillus,0.26%
+CNA,AE,Laceyella,0.24%
+CNA,AE,Pediococcus,0.08%
+CNA,AE,Paenibacillus,0.06%
+CNA,AE,Other genus<0.05%,0.02%
+CNAB,AE,Enterococcus,83.84%
+CNAB,AE,Lactobacillus,2.83%
+CNAB,AE,Limosilactobacillus ,0.96%
+CNAB,AE,Ligilactobacillus,1.61%
+CNAB,AE,Paenibacillus,3.99%
+CNAB,AE,Proteus,3.91%
+CNAB,AE,Bacillus,2.55%
+CNAB,AE,Laceyella,0.20%
+CNAB,AE,Escherichia,0.07%
+CNAB,AE,Other genus<0.05%,0.01%
+BBE,AE,Escherichia,99.75%
+BBE,AE,Proteus,0.10%
+BBE,AE,Other genus<0.05%,0.15%
+KVLB,AE,Escherichia,99.73%
+KVLB,AE,Shigella,0.15%
+KVLB,AE,Laceyella,0.05%
+KVLB,AE,Other genus<0.05%,0.06%
+M9,AE,Escherichia,99.56%
+M9,AE,Proteus,0.17%
+M9,AE,Paenibacillus,0.14%
+M9,AE,Shigella,0.09%
+M9,AE,Other genus<0.05%,0.04%
+M9I,AE,Escherichia,98.70%
+M9I,AE,Klebsiella,0.74%
+M9I,AE,Proteus,0.42%
+M9I,AE,Shigella,0.07%
+M9I,AE,Other genus<0.05%,0.07%
+BHI,AN,Escherichia,91.26%
+BHI,AN,Proteus,8.21%
+BHI,AN,Lactobacillus,0.15%
+BHI,AN,Laceyella,0.12%
+BHI,AN,Shigella,0.10%
+BHI,AN,Enterococcus,0.07%
+BHI,AN,Other genus<0.05%,0.09%
+MAC,AN,Escherichia,94.79%
+MAC,AN,Proteus,3.10%
+MAC,AN,Bacillus,0.49%
+MAC,AN,Enterococcus,0.38%
+MAC,AN,Lactobacillus,0.24%
+MAC,AN,Laceyella,0.19%
+MAC,AN,Bacteroides,0.19%
+MAC,AN,Shigella,0.11%
+MAC,AN,Acinetobacter,0.10%
+MAC,AN,Blautia,0.08%
+MAC,AN,Other genus<0.05%,0.34%
+MSA,AN,Escherichia,42.78%
+MSA,AN,Proteus,37.65%
+MSA,AN,Bacillus,17.88%
+MSA,AN,Enterococcus,0.88%
+MSA,AN,Shigella,0.23%
+MSA,AN,Laceyella,0.16%
+MSA,AN,Lactobacillus,0.14%
+MSA,AN,Other genus<0.05%,0.28%
+CBA,AN,Escherichia,84.17%
+CBA,AN,Proteus,14.64%
+CBA,AN,Enterococcus,0.28%
+CBA,AN,Lactobacillus,0.18%
+CBA,AN,Shigella,0.17%
+CBA,AN,Laceyella,0.17%
+CBA,AN,Bacteroides,0.10%
+CBA,AN,Bacillus,0.09%
+CBA,AN,Other genus<0.05%,0.19%
+CBAB,AN,Escherichia,70.62%
+CBAB,AN,Proteus,27.05%
+CBAB,AN,Lactobacillus,0.70%
+CBAB,AN,Lacrimispora,0.33%
+CBAB,AN,Eubacterium,0.23%
+CBAB,AN,Shigella,0.17%
+CBAB,AN,Laceyella,0.15%
+CBAB,AN,Pseudoflavonifractor,0.10%
+CBAB,AN,Anaerotignum,0.08%
+CBAB,AN,Flintibacter,0.07%
+CBAB,AN,Enterobacter,0.05%
+CBAB,AN,Other genus<0.05%,0.46%
+TSY,AN,Escherichia,90.81%
+TSY,AN,Proteus,8.37%
+TSY,AN,Limosilactobacillus,0.25%
+TSY,AN,Laceyella,0.16%
+TSY,AN,Enterococcus,0.10%
+TSY,AN,Shigella,0.06%
+TSY,AN,Other genus<0.05%,0.25%
+MRS,AN,Lactobacillus ,14.80%
+MRS,AN,Limosilactobacillus ,48.26%
+MRS,AN,Ligilactobacillus ,1.45%
+MRS,AN,Escherichia,33.54%
+MRS,AN,Proteus,1.29%
+MRS,AN,Laceyella,0.29%
+MRS,AN,Pediococcus,0.20%
+MRS,AN,Shigella,0.08%
+MRS,AN,Other genus<0.05%,0.09%
+FAA,AN,Escherichia,84.23%
+FAA,AN,Proteus,14.53%
+FAA,AN,Lactobacillus,0.47%
+FAA,AN,Enterococcus,0.20%
+FAA,AN,Shigella,0.17%
+FAA,AN,Laceyella,0.16%
+FAA,AN,Other genus<0.05%,0.23%
+CNA,AN,Enterococcus,46.18%
+CNA,AN,Escherichia,26.56%
+CNA,AN,Limosilactobacillus ,3.88%
+CNA,AN,Ligilactobacillus,0.80%
+CNA,AN,Lactobacillus,5.20%
+CNA,AN,Proteus,4.86%
+CNA,AN,Eubacterium,2.13%
+CNA,AN,Mediterraneibacter,1.69%
+CNA,AN,Lacrimispora,1.60%
+CNA,AN,Massilimicrobiota,1.06%
+CNA,AN,Bacteroides,0.75%
+CNA,AN,Flavonifractor,0.62%
+CNA,AN,Blautia,0.59%
+CNA,AN,Drancourtella,0.52%
+CNA,AN,Laceyella,0.44%
+CNA,AN,Bacillus,0.38%
+CNA,AN,Fournierella,0.32%
+CNA,AN,Staphylococcus,0.24%
+CNA,AN,Sellimonas,0.23%
+CNA,AN,Pseudoflavonifractor,0.23%
+CNA,AN,Lachnoclostridium,0.21%
+CNA,AN,Shigella,0.19%
+CNA,AN,Anaerotruncus,0.15%
+CNA,AN,Enterocloster,0.12%
+CNA,AN,Faecalicatena,0.10%
+CNA,AN,Erysipelatoclostridium,0.10%
+CNA,AN,Flintibacter,0.06%
+CNA,AN,Massilistercora,0.05%
+CNA,AN,Other genus<0.05%,0.72%
+CNAB,AN,Enterococcus,31.14%
+CNAB,AN,Escherichia,28.10%
+CNAB,AN,Limosilactobacillus ,8.30%
+CNAB,AN,Ligilactobacillus,2.20%
+CNAB,AN,Lactobacillus,10.39%
+CNAB,AN,Eubacterium,5.88%
+CNAB,AN,Lacrimispora,2.26%
+CNAB,AN,Proteus,2.23%
+CNAB,AN,Mediterraneibacter,1.48%
+CNAB,AN,Fournierella,1.47%
+CNAB,AN,Flavonifractor,0.82%
+CNAB,AN,Bacteroides,0.66%
+CNAB,AN,Blautia,0.65%
+CNAB,AN,Drancourtella,0.46%
+CNAB,AN,Laceyella,0.43%
+CNAB,AN,Staphylococcus,0.36%
+CNAB,AN,Butyricicoccus,0.28%
+CNAB,AN,Pseudoflavonifractor,0.25%
+CNAB,AN,Erysipelatoclostridium,0.21%
+CNAB,AN,Lachnoclostridium,0.21%
+CNAB,AN,Massilistercora,0.14%
+CNAB,AN,Bacillus,0.12%
+CNAB,AN,Flintibacter,0.11%
+CNAB,AN,Shigella,0.11%
+CNAB,AN,Enterocloster,0.11%
+CNAB,AN,Sellimonas,0.08%
+CNAB,AN,Massilimicrobiota,0.08%
+CNAB,AN,Anaerotruncus,0.07%
+CNAB,AN,Faecalicatena,0.07%
+CNAB,AN,Other genus<0.05%,1.33%
+BBE,AN,Escherichia,75.51%
+BBE,AN,Bacteroides,16.62%
+BBE,AN,Proteus,6.24%
+BBE,AN,Enterococcus,0.46%
+BBE,AN,Laceyella,0.32%
+BBE,AN,Lactobacillus,0.29%
+BBE,AN,Bacillus,0.29%
+BBE,AN,Shigella,0.08%
+BBE,AN,Other genus<0.05%,0.20%
+KVLB,AN,Escherichia,95.66%
+KVLB,AN,Proteus,3.30%
+KVLB,AN,Enterococcus,0.21%
+KVLB,AN,Bacillus,0.20%
+KVLB,AN,Lactobacillus,0.17%
+KVLB,AN,Shigella,0.16%
+KVLB,AN,Laceyella,0.16%
+KVLB,AN,Bacteroides,0.05%
+KVLB,AN,Other genus<0.05%,0.09%
+M9,AN,Escherichia,92.61%
+M9,AN,Proteus,2.72%
+M9,AN,Lactobacillus,1.60%
+M9,AN,Lacrimispora,0.96%
+M9,AN,Drancourtella,0.29%
+M9,AN,Pseudoflavonifractor,0.29%
+M9,AN,Enterococcus,0.23%
+M9,AN,Bacillus,0.21%
+M9,AN,Alistipes,0.19%
+M9,AN,Agathobaculum,0.19%
+M9,AN,Eubacterium,0.19%
+M9,AN,Laceyella,0.12%
+M9,AN,Fournierella,0.10%
+M9,AN,Blautia,0.10%
+M9,AN,Anaerotignum,0.10%
+M9,AN,Shigella,0.06%
+M9,AN,Other genus<0.05%,0.06%
+M9I,AN,Escherichia,88.89%
+M9I,AN,Proteus,10.46%
+M9I,AN,Lactobacillus,0.32%
+M9I,AN,Laceyella,0.11%
+M9I,AN,Shigella,0.06%
+M9I,AN,Enterococcus,0.06%
+M9I,AN,Other genus<0.05%,0.10%
