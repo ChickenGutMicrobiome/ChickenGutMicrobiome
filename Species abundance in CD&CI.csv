@@ -1,0 +1,65 @@
+Group,Species,Abundance
+CD,Escherichia coli,63.66
+CD,Proteus mirabilis,15.05
+CD,Limosilactobacillus reuteri,3.57
+CD,Enterococcus faecalis,2.71
+CD,Ligilactobacillus salivarius,2.58
+CD,Enterococcus cecorum,2.02
+CD,Enterococcus sp. FDAARGOS_375,1.63
+CD,Lactobacillus johnsonii,1.26
+CD,Enterococcus sp. FDAARGOS_553,0.72
+CD,Enterococcus sp. M190262,0.69
+CD,Bacteroides fragilis,0.69
+CD,Enterococcus gallinarum,0.52
+CD,Lactobacillus vaginalis,0.46
+CD,Bacillus pumilus,0.46
+CD,Lactobacillus crispatus,0.37
+CD,Bacillus subtilis,0.34
+CD,Enterococcus casseliflavus,0.32
+CD,Klebsiella pneumoniae,0.31
+CD,Enterococcus sp. CR-Ec1,0.3
+CD,Enterococcus hirae,0.27
+CD,Eubacterium callanderi,0.27
+CD,Laceyella sacchari,0.15
+CD,Paenibacillus silagei,0.1
+CD,Enterococcus faecium,0.1
+CD,Lacrimispora amygdalina,0.1
+CD,Others<0.1% in CD,1.34
+CI,Faecalibacterium prausnitzii,33.41
+CI,Eisenbergiella massiliensis,3.97
+CI,Negativibacillus massiliensis,3.25
+CI,Lacrimispora saccharolytica,2.79
+CI,Flintibacter sp. KGMB00164,2.64
+CI,Dysosmobacter welbionis,1.99
+CI,Flavonifractor plautii,1.97
+CI,Blautia producta,1.93
+CI,Fournierella massiliensis,1.63
+CI,Lactobacillus crispatus,1.53
+CI,Hungatella hathewayi,1.48
+CI,Butyricicoccus pullicaecorum,1.4
+CI,Lachnoclostridium sp. YL32,1.16
+CI,Enterocloster bolteae,1.13
+CI,Mediterraneibacter glycyrrhizinilyticus,1.06
+CI,Blautia sp. YL58,1.05
+CI,Ruthenibacterium lactatiformans,1.02
+CI,Intestinimonas butyriciproducens,1
+CI,Escherichia coli,0.98
+CI,Paludicola psychrotolerans,0.93
+CI,Pseudoflavonifractor capillosus,0.93
+CI,Lachnoclostridium phocaeense,0.91
+CI,Anaerostipes butyraticus,0.87
+CI,Gemmiger formicilis,0.86
+CI,Ligilactobacillus salivarius,0.86
+CI,Pseudoclostridium thermosuccinogenes,0.84
+CI,Faecalicatena fissicatena,0.81
+CI,Anaeromassilibacillus senegalensis,0.8
+CI,Eisenbergiella tayi,0.66
+CI,Faecalimonas umbilicata,0.66
+CI,Papillibacter cinnamivorans,0.65
+CI,Clostridium sp. BNL1100,0.63
+CI,Agathobaculum butyriciproducens,0.62
+CI,Neglecta timonensis,0.58
+CI,Roseburia hominis,0.52
+CI,Anaerotruncus rubiinfantis,0.51
+CI,Fusicatenibacter saccharivorans,0.51
+CI,Others<0.5% in CI,21.51
