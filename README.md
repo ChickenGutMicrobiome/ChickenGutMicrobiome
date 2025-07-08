@@ -2,10 +2,13 @@
 **This repository contains the code and data files needed to reproduce the analysis for “Targeted cultivation and isolation of probiotic candidate taxa from the cecal microbiota of broiler chickens using culturomics”.**
 
 **Code**
+
 R script containing all code used to process the data tables below and generate figures included in the manuscript.
 
 **Data files (in folder Data tables for R script)**
+
 These processed data files are used as input for the R scripts to generate all figures and analyses presented in the manuscript.
+
 1.Phylum abundance in CD&CI.csv
 Contains the relative abundance of bacterial phyla identified using culture-dependent (CD) and culture-independent (CI) approaches.
 
@@ -31,7 +34,9 @@ Contains taxonomic classifications of the 251 single colonies isolated from five
 Provides the abundance information of 150 colonies identified as single species with relative abundance exceeding a 95% cutoff.
 
 **Citation**
+
 If you use any of these data or code, please cite the associated manuscript:
+
 Wang M., Ye X., Hsu C.-Y., Fugate H., Zhang X., Acharya Adhikari P., Fan P., Elliott K., Macklin K., and Zhang L.
 Targeted cultivation and isolation of probiotic candidate taxa from the cecal microbiota of broiler chickens using culturomics.
 Unpublished work, 2025.
@@ -39,7 +44,9 @@ Unpublished work, 2025.
 
 
 **Contact**
+
 For questions about the data or code, please contact:
+
 Manhong Wang
 mw2911@msstate.edu
 
