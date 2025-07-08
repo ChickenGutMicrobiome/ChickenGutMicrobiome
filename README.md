@@ -9,28 +9,36 @@ R script containing all code used to process the data tables below and generate 
 
 These processed data files are used as input for the R scripts to generate all figures and analyses presented in the manuscript.
 
-1.Phylum abundance in CD&CI.csv
+1. Phylum abundance in CD&CI.csv
+
 Contains the relative abundance of bacterial phyla identified using culture-dependent (CD) and culture-independent (CI) approaches.
 
-2.Genus abundance in CD&CI.csv
+2. Genus abundance in CD&CI.csv
+   
 Summarizes the relative abundance of bacterial genera identified by the CD and CI methods.
 
-3.Species abundance in CD&CI.csv
+3. Species abundance in CD&CI.csv
+   
 Includes the relative abundance of bacterial species detected by CD and CI approaches.
 
-4.Genus abundance under 28 conditions.csv
+4. Genus abundance under 28 conditions.csv
+   
 Shows the relative abundance of bacterial genera across 14 different media, each cultured under both aerobic (AE) and anaerobic (AN) conditions.
 
-5.CD abundance table.csv and Metadata CD.csv
+5. CD abundance table.csv and Metadata CD.csv
+    
 Provide the abundance data and associated metadata for the 161 colony mixtures obtained through the culture-dependent method.
 
-6.20 beneficial species for sankey.csv
+6. 20 beneficial species for sankey.csv
+   
 Lists the top 20 potentially probiotic bacterial species (ranked by relative abundance) used to generate Sankey diagrams illustrating their distribution across 10 culture conditions.
 
-7.251 single colony abundance table.csv
+7. 251 single colony abundance table.csv
+   
 Contains taxonomic classifications of the 251 single colonies isolated from five selected media and sequenced for 16S rRNA genes.
 
-8.150 single species abundance table.csv
+8. 150 single species abundance table.csv
+   
 Provides the abundance information of 150 colonies identified as single species with relative abundance exceeding a 95% cutoff.
 
 **Citation**
@@ -48,5 +56,6 @@ Unpublished work, 2025.
 For questions about the data or code, please contact:
 
 Manhong Wang
+
 mw2911@msstate.edu
 
