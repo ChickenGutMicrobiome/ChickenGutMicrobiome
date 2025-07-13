@@ -59,7 +59,7 @@ grid.text("342", x = 0.68, y = 0.50,
 library(ggplot2)
 library(dplyr)
 
-df_species <- read.csv("Species abundance in CD&CI.csv")
+df_species <- read.csv("Species_abundance_in_CD&CI.csv")
 
 all_combinations <- expand.grid(
   Group = unique(df_species$Group),
@@ -177,8 +177,8 @@ library(ggtext)
 library(tidyr)
 
 
-otu <- read.csv("CD abundance table.csv", row.names = 1, check.names = FALSE)   
-meta <- read.csv("Metadata CD.csv", row.names = 1, check.names = FALSE)         
+otu <- read.csv("CD_abundance_table.csv", row.names = 1, check.names = FALSE)   
+meta <- read.csv("Metadata_CD.csv", row.names = 1, check.names = FALSE)         
 
 
 otu_t <- as.data.frame(t(otu))
@@ -345,8 +345,8 @@ library(ggtext)
 library(tidyverse)
 
 
-otu <- read.csv("CD abundance table.csv", row.names = 1, check.names = FALSE)
-meta <- read.csv("Metadata CD.csv", row.names = 1, check.names = FALSE)
+otu <- read.csv("CD_abundance_table.csv", row.names = 1, check.names = FALSE)
+meta <- read.csv("Metadata_CD.csv", row.names = 1, check.names = FALSE)
 
 otu_t <- t(otu)
 otu_t <- otu_t[rownames(meta), ]
@@ -420,8 +420,8 @@ library(tidyr)
 library(ggtext)
 
 
-otu_raw <- read.csv("CD abundance table.csv", row.names = 1, check.names = FALSE)
-meta <- read.csv("Metadata CD.csv", row.names = 1, check.names = FALSE)
+otu_raw <- read.csv("CD_abundance_table.csv", row.names = 1, check.names = FALSE)
+meta <- read.csv("Metadata_CD.csv", row.names = 1, check.names = FALSE)
 
 
 otu_t <- as.data.frame(t(otu_raw))
@@ -574,8 +574,8 @@ library(vegan)
 library(ggplot2)
 library(ggtext)
 
-otu <- read.csv("CD abundance table.csv", row.names = 1, check.names = FALSE)
-meta <- read.csv("Metadata CD.csv", row.names = 1, check.names = FALSE)
+otu <- read.csv("CD_abundance_table.csv", row.names = 1, check.names = FALSE)
+meta <- read.csv("Metadata_CD.csv", row.names = 1, check.names = FALSE)
 
 otu_t <- t(otu)
 otu_t <- otu_t[rownames(meta), ]
@@ -645,7 +645,7 @@ library(ggtext)
 library(stringr)
 library(grid)
 
-df <- read.csv("Genus abundance under 28 conditions.csv", na.strings = c("", "NA"))
+df <- read.csv("Genus_abundance_under_28_conditions.csv", na.strings = c("", "NA"))
 
 
 df$Abundance <- as.numeric(gsub("%", "", df$Abundance))
@@ -732,8 +732,8 @@ library(vegan)
 library(tidyverse)
 library(ggtext)  
 
-otu <- read.csv("CD abundance table.csv", row.names = 1, check.names = FALSE)
-meta <- read.csv("Metadata CD.csv", row.names = 1, check.names = FALSE)
+otu <- read.csv("CD_abundance_table.csv", row.names = 1, check.names = FALSE)
+meta <- read.csv("Metadata_CD.csv", row.names = 1, check.names = FALSE)
 
 
 selected_mediums <- c("BBE", "CNA", "CNAB", "MRS", "MSA")
@@ -807,8 +807,8 @@ library(tidyverse)
 library(readr)
 library(UpSetR)
 
-metadata <- read_csv("Metadata CD.csv")
-abundance <- read_csv("CD abundance table.csv")
+metadata <- read_csv("Metadata_CD.csv")
+abundance <- read_csv("CD_abundance_table.csv")
 
 abundance <- as.data.frame(abundance)
 rownames(abundance) <- abundance$`#name`
@@ -888,8 +888,8 @@ library(tidyverse)
 library(readr)
 library(UpSetR)
 
-metadata <- read_csv("Metadata CD.csv")
-abundance <- read_csv("CD abundance table.csv")
+metadata <- read_csv("Metadata_CD.csv")
+abundance <- read_csv("CD_abundance_table.csv")
 
 abundance <- as.data.frame(abundance)
 rownames(abundance) <- abundance$`#name`
@@ -976,8 +976,8 @@ library(tidyverse)
 library(readr)
 library(ComplexHeatmap)
 library(circlize)
-metadata <- read_csv("Metadata CD.csv")
-abundance <- read_csv("CD abundance table.csv")
+metadata <- read_csv("Metadata_CD.csv")
+abundance <- read_csv("CD_abundance_table.csv")
 
 abundance <- as.data.frame(abundance)
 rownames(abundance) <- abundance$`#name`
@@ -1096,7 +1096,7 @@ library(tidyverse)
 library(ggalluvial)
 library(scales)
 
-df <- read.csv("20 beneficial species for sankey.csv", check.names = FALSE)
+df <- read.csv("20_beneficial_species_for_sankey.csv", check.names = FALSE)
 
 df_long <- df %>%
   pivot_longer(
@@ -1263,7 +1263,7 @@ library(ComplexHeatmap)
 library(circlize)
 library(grid)
 
-df <- read_csv("150 single species abundance table.csv")
+df <- read_csv("150_single_species_abundance table.csv")
 df$Condition <- paste(df$Medium_name, df$Oxygen, sep = "_")
 
 heatmap_df <- df %>%
@@ -1424,7 +1424,7 @@ library(readr)
 library(scales)  
 library(grid)    
 
-df <- read_delim("Phylum abundance in CD&CI.csv")
+df <- read_delim("Phylum_abundance_in_CD&CI.csv")
 
 all_combinations <- expand.grid(
   Group = unique(df$Group),
@@ -1499,7 +1499,7 @@ library(readr)
 library(dplyr)
 
 
-df_genus <- read.csv("Genus abundance in CD&CI.csv")
+df_genus <- read.csv("Genus_abundance_in_CD&CI.csv")
 
 
 genus_abundance <- aggregate(Abundance ~ Genus, data = df_genus, sum)
