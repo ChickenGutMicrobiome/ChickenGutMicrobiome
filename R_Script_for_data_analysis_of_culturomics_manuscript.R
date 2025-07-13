@@ -163,7 +163,7 @@ print(p)
 
 
 install.packages("readr")
-insinstall.packages("vegan")  
+install.packages("vegan")  
 install.packages("tidyr")
 
 library(vegan)             
@@ -1263,7 +1263,7 @@ library(ComplexHeatmap)
 library(circlize)
 library(grid)
 
-df <- read_csv("150_single_species_abundance table.csv")
+df <- read_csv("150_single_species_abundance_table.csv")
 df$Condition <- paste(df$Medium_name, df$Oxygen, sep = "_")
 
 heatmap_df <- df %>%
