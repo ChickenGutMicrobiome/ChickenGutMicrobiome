@@ -1,12 +1,12 @@
 
 
-# Title: Targeted cultivation and isolation of probiotic candidate taxa from the cecal microbiota of broiler chickens using culturomics
-# Date:2025-07-07
+# Title: Application of culturomics to explore the cultivable microbiota and enable targeted bacterial isolation from the ceca of broiler chickens
+# Date:2025-10-29
 # Author: Manhong Wang
 # Mississippi State University
 
 
-# R Script for data analysis of "Targeted cultivation and isolation of probiotic candidate taxa from the cecal microbiota of broiler chickens using culturomics"
+# R Script for data analysis of "Application of culturomics to explore the cultivable microbiota and enable targeted bacterial isolation from the ceca of broiler chickens"
 
 
 
