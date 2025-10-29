@@ -1,5 +1,7 @@
 
-**This repository contains the code and data files needed to reproduce the analysis for “Targeted cultivation and isolation of probiotic candidate taxa from the cecal microbiota of broiler chickens using culturomics”.**
+**This repository contains the code and data files needed to reproduce the analysis for “Application of culturomics to explore the cultivable microbiota and enable targeted bacterial isolation from the ceca of broiler chickens
+<img width="1548" height="60" alt="image" src="https://github.com/user-attachments/assets/f3e22722-37d2-4db7-8fa2-1a612ee1123c" />
+”.**
 
 **Code**
 
