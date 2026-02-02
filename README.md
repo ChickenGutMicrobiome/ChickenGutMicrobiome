@@ -43,10 +43,9 @@ Provides the abundance information of 150 colonies identified as single species 
 
 **Citation**
 
-If you use any of these data or code, please cite the associated manuscript:
+If you use any of these data or code, please cite the associated as follow:
 
-Wang M., Ye X., Hsu C.-Y., Fugate H., Zhang X., Acharya Adhikari P., Fan P., Elliott K., Macklin K., and Zhang L.
-Application of culturomics to explore the cultivable microbiota and enable targeted bacterial isolation from the ceca of broiler chickens. Unpublished work, 2025.
+Wang, M., Ye, X., Hsu, C. Y., Fugate, H., Zhang, X., Adhikari, P. A., ... & Zhang, L. (2026). Application of culturomics to explore the cultivable microbiota and enable targeted bacterial isolation from the ceca of broiler chickens. Poultry Science, 106527.
 
 
 
